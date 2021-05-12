@@ -1,0 +1,25 @@
+Power BI Intro Training - PMO
+
+Report Content
+- Data scope == all Product releases
+- Quick report checks
+- Data checks
+
+Viewing Report
+- Basic user interactions
+- RQC pages purpose and content
+
+Report Configuration - RQC data
+- Minimal data: Launch date, MCL, RQC goals
+- Optional data: KLOCs, Burndown start date, PR baseline date, PR release series
+- Optional data: KLOCs per subsystem, APM data
+
+Exporting data
+- From Cloud Service
+- Through automated Excel (PAR Committee review)
+
+
+
+Proposed Training Plan
+- 1hr session (2 dates)
+- 1hr doing report configuration for 1 release
